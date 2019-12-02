@@ -86,3 +86,50 @@ net         subnet      host
 ```
 
 ## Часть 2: Физическое кодирование сигнала
+
+#### cp1251 encoding
+
+![cp1251](images/cp1251.png)
+
+### Кодирование сигналов
+
+#### NRZ
+
+![NRZ](images/nrz.png)
+
+![NRZ](images/nrz2.png)
+
+![NRZ](images/nrz3.png)
+
+![NRZ](images/nrz_shift.png)
+
+#### NRZI
+
+![NRZI](images/nrzi.png)
+
+![NRZI](images/nrzi2.png)
+
+#### MLT3
+
+![NRZI](images/mlt-3.png)
+
+#### MANCH
+
+![NRZI](images/manch.png)
+
+![NRZI](images/manch2.png)
+
+#### DMANCH
+
+![NRZI](images/dmanch.png)
+
+![NRZI](images/dmanch2.png)
+
+#### 2B1Q
+
+![NRZI](images/2b1q.png)
+
+### Сводный пример
+
+![NRZI](images/all_together.png)
+
