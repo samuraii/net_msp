@@ -95,8 +95,6 @@ net         subnet      host
 
 #### NRZ
 
-![NRZ](images/nrz.png)
-
 ![NRZ](images/nrz2.png)
 
 ![NRZ](images/nrz3.png)
